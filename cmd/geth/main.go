@@ -68,6 +68,7 @@ var (
 		utils.LegacyBootnodesV5Flag,
 		utils.DataDirFlag,
 		utils.AncientFlag,
+		utils.FreezerRemoteFlag,
 		utils.KeyStoreDirFlag,
 		utils.ExternalSignerFlag,
 		utils.NoUSBFlag,
